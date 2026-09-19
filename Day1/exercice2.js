@@ -2,4 +2,4 @@ let number = 0
  for(let i = 1 ; i <= 100 ; i++) {
     number = number + i 
  }
-  console.log(number)
+  console.log(number) 
